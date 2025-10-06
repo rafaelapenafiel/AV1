@@ -1,0 +1,23 @@
+
+===== RELATÓRIO FINAL =====
+Cliente: Alvin
+Data de entrega: 06/10/2025
+Aeronave: Embraer 2012 (02)
+Tipo: Comercial
+Capacidade: 250
+Alcance: 20000 km
+
+--- Peças ---
+motor 1 - Em produção
+motor 2 - Em produção
+cambio - Em produção
+
+--- Etapas ---
+Projetando: Em andamento
+Montagem: Pendente
+Testes: Pendente
+
+--- Testes ---
+Aerodinâmico: Aprovado
+
+============================

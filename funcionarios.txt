@@ -7,5 +7,14 @@
     "usuario": "jose",
     "senha": "1234",
     "nivelPermissao": "Operador"
+  },
+  {
+    "id": 2,
+    "nome": "davi",
+    "telefone": "(12)123456789",
+    "endereco": "Rua das Flores,250",
+    "usuario": "davi",
+    "senha": "9876",
+    "nivelPermissao": "Administrador"
   }
 ]

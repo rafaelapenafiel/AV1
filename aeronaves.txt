@@ -26,5 +26,58 @@
         "resultado": "Aprovado"
       }
     ]
+  },
+  {
+    "codigo": "02",
+    "modelo": "Embraer 2012",
+    "tipo": "Comercial",
+    "capacidade": 250,
+    "alcance": 20000,
+    "pecas": [
+      {
+        "nome": "motor 1",
+        "tipo": "Importada",
+        "fornecedor": "EUA",
+        "status": "Em produção"
+      },
+      {
+        "nome": "motor 2",
+        "tipo": "Importada",
+        "fornecedor": "EUA",
+        "status": "Em produção"
+      },
+      {
+        "nome": "cambio",
+        "tipo": "Importada",
+        "fornecedor": "EUA",
+        "status": "Em produção"
+      }
+    ],
+    "etapas": [
+      {
+        "nome": "Projetando",
+        "prazo": "2026-10-20",
+        "status": "Em andamento",
+        "funcionarios": []
+      },
+      {
+        "nome": "Montagem",
+        "prazo": "2028-10-20",
+        "status": "Pendente",
+        "funcionarios": []
+      },
+      {
+        "nome": "Testes",
+        "prazo": "2030-10-20",
+        "status": "Pendente",
+        "funcionarios": []
+      }
+    ],
+    "testes": [
+      {
+        "tipo": "Aerodinâmico",
+        "resultado": "Aprovado"
+      }
+    ]
   }
 ]
