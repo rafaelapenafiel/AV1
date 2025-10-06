@@ -1,0 +1,20 @@
+
+===== RELATÓRIO FINAL =====
+Cliente: Companhia Azul
+Data de entrega: 05/10/2025
+Aeronave: Embraer E195 (A100)
+Tipo: Comercial
+Capacidade: 132
+Alcance: 4500 km
+
+--- Peças ---
+Turbina - Em produção
+Asa - Pronta
+
+--- Etapas ---
+
+
+--- Testes ---
+Elétrico: Aprovado
+
+============================

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Jose",
+    "telefone": "(12)345678901",
+    "endereco": "Rua das Palmeiras, 321 - S�o Jos� dos Campos/SP",
+    "usuario": "jose",
+    "senha": "1234",
+    "nivelPermissao": "Operador"
+  }
+]

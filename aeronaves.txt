@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "A100",
+    "modelo": "Embraer E195",
+    "tipo": "Comercial",
+    "capacidade": 132,
+    "alcance": 4500,
+    "pecas": [
+      {
+        "nome": "Turbina",
+        "tipo": "Importada",
+        "fornecedor": "Rolls Royce",
+        "status": "Em produção"
+      },
+      {
+        "nome": "Asa",
+        "tipo": "Nacional",
+        "fornecedor": "Embraer",
+        "status": "Pronta"
+      }
+    ],
+    "etapas": [],
+    "testes": [
+      {
+        "tipo": "Elétrico",
+        "resultado": "Aprovado"
+      }
+    ]
+  }
+]

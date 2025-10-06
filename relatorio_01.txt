@@ -1,0 +1,19 @@
+
+===== RELATÓRIO FINAL =====
+Cliente: Alcir
+Data de entrega: 06/10/2025
+Aeronave: ca�a (01)
+Tipo: Militar
+Capacidade: 20
+Alcance: 2000 km
+
+--- Peças ---
+motor 1 - Em transporte
+
+--- Etapas ---
+
+
+--- Testes ---
+Aerodinâmico: Aprovado
+
+============================
